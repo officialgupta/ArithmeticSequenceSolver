@@ -1,0 +1,6 @@
+F:\Documents\Programming\Projects\C#\BN\2point5\SequenceSolver\bin\Debug\SequenceSolver.exe.config
+F:\Documents\Programming\Projects\C#\BN\2point5\SequenceSolver\bin\Debug\SequenceSolver.exe
+F:\Documents\Programming\Projects\C#\BN\2point5\SequenceSolver\bin\Debug\SequenceSolver.pdb
+F:\Documents\Programming\Projects\C#\BN\2point5\SequenceSolver\obj\Debug\SequenceSolver.csprojResolveAssemblyReference.cache
+F:\Documents\Programming\Projects\C#\BN\2point5\SequenceSolver\obj\Debug\SequenceSolver.exe
+F:\Documents\Programming\Projects\C#\BN\2point5\SequenceSolver\obj\Debug\SequenceSolver.pdb
